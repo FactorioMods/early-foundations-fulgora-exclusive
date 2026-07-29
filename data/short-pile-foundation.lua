@@ -21,7 +21,8 @@ item.place_as_tile = {
 		"wetland-red-tentacle",
 		"wetland-yumako",
 		"wetland-jellynut",
-		"oil-ocean-shallow"
+		"oil-ocean-shallow",
+		"oil-ocean-shallow-2"
 	}
 }
 item.icon = "__early-foundations__/icons/item.png"
