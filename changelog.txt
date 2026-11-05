@@ -7,5 +7,7 @@ Date: 2026-11-05
     - Replace the item, research and mod thumbnail images with artwork matching the actual Fulgora foundation tile. Terrain textures are unchanged.
   Bugfixes:
     - Keep the custom item and tile icons when another mod gives vanilla foundations layered icons.
+  Changes:
+    - Sort short-pile foundations before advanced foundations in item menus.
   Balancing:
     - Retain the remaining five science packs, 500 research units, 20-second research time and original crafting costs and placement rules.

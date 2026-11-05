@@ -10,6 +10,8 @@ Short-pile foundation research no longer consumes metallurgic science. It still 
 
 Crafting costs remain **4 steel plates, 8 low-density structures and 10 refined concrete**, with a 20-second crafting time. Foundations retain placement on both shallow oil-ocean variants on Fulgora and the original supported water and wetland tiles. Deep oil oceans and lava remain excluded.
 
+Short-pile foundations are listed before advanced foundations in item menus. Item and tile entries share matching artwork based on the actual foundation surface.
+
 ## Installation and existing saves
 
 Disable [Early Foundations](https://mods.factorio.com/mod/early-foundations) before enabling this fork. The two mods are mutually exclusive. Existing item, recipe, technology and tile identifiers are retained when switching.

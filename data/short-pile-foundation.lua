@@ -29,6 +29,7 @@ item.place_as_tile = {
 item.icon = "__early-foundations-fulgora-exclusive__/icons/item.png"
 item.icon_size = 128
 item.default_import_location = "fulgora"
+item.order = "c[landfill]-f[short-pile-foundation]"
 
 local recipe = {
 	type = "recipe",
