@@ -1,7 +1,11 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.0
+Version: 1.0.1
 Date: 2026-11-05
   Features:
-    - Unlock and use short-pile foundations directly on Fulgora without metallurgic science, supporting Any Planet Start progression before travelling to other planets.
+    - Unlock and use short-pile foundations on Fulgora without metallurgic science, supporting Any Planet Start progression before travelling to other planets.
+  Graphics:
+    - Replace the item, research and mod thumbnail images with artwork matching the actual Fulgora foundation tile. Terrain textures are unchanged.
+  Bugfixes:
+    - Keep the custom item and tile icons when another mod gives vanilla foundations layered icons.
   Balancing:
-    - Retain the other five science packs, 500 research units and 20-second research time. Foundation crafting costs and placement rules are unchanged.
+    - Retain the remaining five science packs, 500 research units, 20-second research time and original crafting costs and placement rules.

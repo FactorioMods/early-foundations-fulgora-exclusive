@@ -2,7 +2,7 @@
 
 Unlock and build short-pile foundations on Fulgora without metallurgic science or a visit to Vulcanus. This fork supports Fulgora-first factories, including **Any Planet Start** runs that need more building space before travelling to other planets.
 
-**Factorio 2.1 | Space Age required | Version 1.0.0**
+**Factorio 2.1 | Space Age required | Version 1.0.1**
 
 ## What changes
 
@@ -24,4 +24,6 @@ Disable [Early Foundations](https://mods.factorio.com/mod/early-foundations) bef
 
 Based on [Early Foundations](https://github.com/mothdotmonster/early-foundations) by Chesapeake / moth.monster. Original commit history is preserved, with the Fulgora research change on top. Maintained by johnmart19 / FactorioMods.
 
-Code is distributed under the original [WTF+GFY license](https://github.com/FactorioMods/early-foundations-fulgora-exclusive/blob/main/LICENSE). Icons by [Malcolm Riley](https://github.com/malcolmriley/unused-renders), used unchanged under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Artwork attribution and license details are included in [ATTRIBUTION.md](https://github.com/FactorioMods/early-foundations-fulgora-exclusive/blob/main/ATTRIBUTION.md).
+The inventory and research icons match the foundation's actual appearance on Fulgora. In-game terrain textures are unchanged.
+
+Code is distributed under the original [WTF+GFY license](https://github.com/FactorioMods/early-foundations-fulgora-exclusive/blob/main/LICENSE). Original icon credits and details for the current artwork are included in [ATTRIBUTION.md](https://github.com/FactorioMods/early-foundations-fulgora-exclusive/blob/main/ATTRIBUTION.md).

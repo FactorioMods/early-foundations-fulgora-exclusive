@@ -1,5 +1,6 @@
 local item = table.deepcopy(data.raw["item"]["foundation"])
 item.name = "short-pile-foundation"
+item.icons = nil
 item.place_as_tile = {
 	condition = {
 		layers = {}
@@ -26,7 +27,7 @@ item.place_as_tile = {
 	}
 }
 item.icon = "__early-foundations-fulgora-exclusive__/icons/item.png"
-item.icon_size = 64
+item.icon_size = 128
 item.default_import_location = "fulgora"
 
 local recipe = {
@@ -46,6 +47,9 @@ data:extend{item, recipe}
 
 local tile = table.deepcopy(data.raw["tile"]["foundation"])
 tile.name = "short-pile-foundation"
+tile.icons = nil
+tile.icon = item.icon
+tile.icon_size = item.icon_size
 tile.minable = {
 	mining_time = 0.5,
 	result = "short-pile-foundation"
