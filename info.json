@@ -1,10 +1,14 @@
 {
-	"name": "early-foundations",
-	"version": "0.1.5",
-	"title": "Early Foundations",
-	"author": "Chesapeake [moth.monster]",
-	"factorio_version": "2.1",
-	"dependencies": ["base >= 2.0", "space-age"],
-	"description": "Early foundations for Fulgora.",
-	"contact": "hello@moth.monster"
+  "name": "early-foundations-fulgora-exclusive",
+  "version": "1.0.0",
+  "title": "Early Foundations: Fulgora Exclusive",
+  "author": "Chesapeake [moth.monster] (original); johnmart19 / FactorioMods",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0",
+    "space-age",
+    "! early-foundations"
+  ],
+  "description": "Unlock and build short-pile foundations on Fulgora without metallurgic science. Designed for Fulgora-first and Any Planet Start progression.",
+  "homepage": "https://github.com/FactorioMods/early-foundations-fulgora-exclusive"
 }

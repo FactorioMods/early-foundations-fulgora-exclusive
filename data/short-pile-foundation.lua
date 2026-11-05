@@ -25,7 +25,7 @@ item.place_as_tile = {
 		"oil-ocean-shallow-2"
 	}
 }
-item.icon = "__early-foundations__/icons/item.png"
+item.icon = "__early-foundations-fulgora-exclusive__/icons/item.png"
 item.icon_size = 64
 item.default_import_location = "fulgora"
 
@@ -57,7 +57,7 @@ data:extend({tile})
 local tech = {
 	type = "technology",
 	name = "short-pile-foundation",
-	icon = "__early-foundations__/icons/tech.png",
+	icon = "__early-foundations-fulgora-exclusive__/icons/tech.png",
 	icon_size = 256,
 	effects = {
 		{
@@ -76,7 +76,6 @@ local tech = {
 			{"chemical-science-pack", 1},
 			{"space-science-pack", 1},
 			{"electromagnetic-science-pack", 1},
-			{"metallurgic-science-pack", 1},
 		},
 		time = 20
 	}

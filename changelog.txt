@@ -1,27 +1,7 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.5
-  Bugfixes:
-    - Short-pile foundation can now be placed on Shallow oil ocean 2.
----------------------------------------------------------------------------------------------------
-Version: 0.1.4
-  Compatibility:
-    - Factorio 2.1 support
-  Locale:
-    - Updated localization.
----------------------------------------------------------------------------------------------------
-Version: 0.1.3
-  Locale:
-    - Updated localization.
----------------------------------------------------------------------------------------------------
-Version: 0.1.2
-  Locale:
-    - Updated localization.
----------------------------------------------------------------------------------------------------
-Version: 0.1.1
-  Bugfixes:
-    - Short-pile foundation will now force place on shallow oil ocean.
-    - Default import location for short-pile foundation changed to Fulgora.
----------------------------------------------------------------------------------------------------
-Version: 0.1.0
-  Info:
-    - Inital version.
+Version: 1.0.0
+Date: 2026-11-05
+  Features:
+    - Unlock and use short-pile foundations directly on Fulgora without metallurgic science, supporting Any Planet Start progression before travelling to other planets.
+  Balancing:
+    - Retain the other five science packs, 500 research units and 20-second research time. Foundation crafting costs and placement rules are unchanged.
